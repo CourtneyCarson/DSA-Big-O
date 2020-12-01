@@ -89,4 +89,5 @@ function naiveSearch(array, item) {
     }
 }
 
-L
+Linear it runs through once, but also checks so O(2n)
+
